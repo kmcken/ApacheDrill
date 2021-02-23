@@ -1,7 +1,7 @@
 # ApacheDrill
 NI LabVIEW code base for instrumentation of Sandvik DE-130 core drill at Colorado School of Mines Apache Drilling Laboratory.
 
-Hardware: \n
+Hardware: 
 NI cRIO 9047
 NI 9237
 NI 9422
