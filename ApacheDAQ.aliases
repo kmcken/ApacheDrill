@@ -1,5 +1,5 @@
 [My Computer]
-My Computer = "10.0.0.1"
+My Computer = "192.168.50.189"
 
 [NI-cRIO-9047-CSM-APACHE]
 NI-cRIO-9047-CSM-APACHE = "10.0.0.2"
